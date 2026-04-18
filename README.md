@@ -1,5 +1,6 @@
 # Learn-Data-Science
-The list of resources to learn Data Science
+
+Учим Data Science
 
 # What is Data Science❓
 
