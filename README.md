@@ -3,6 +3,9 @@ The list of resources to learn Data Science
 
 # Topic 1: What is Data Science?
 
+<a href='https://www.datacamp.com/tutorial/how-to-become-a-data-scientist'>Become a Data Scientist in 8 steps</a> by DataCamp.com
+ 
+
 Article: <a href='https://web.archive.org/web/20170707131930/http://www.datascientists.net/what-is-data-science'>What is Data Science?</a>
 
 <a href='https://www.ted.com/talks/kenneth_cukier_big_data_is_better_data'>Big data is better data </a> TED speach by Kenneth Cukier
@@ -24,4 +27,15 @@ Davenport, Thomas H.
 Article in forbes: <a href='https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/'>A Very Short History Of Data Science</a>
 
 Article by EAMONN O'NEILL: <a href='https://cloudtweaks.com/2025/02/thriving-in-the-second-wave-of-big-data-modernization/'>Thriving In The “Second Wave” Of Big Data Modernization</a>
-<a href=''></a>
+
+ 
+Book: author Schutt, Rachel - Doing data science 
+ 
+Article in mckinsey: <a href='https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/big-data-the-next-frontier-for-innovation'>Big data: The next frontier for innovation, competition, and productivity</a>
+ 
+DATA ANALYSTS + DATA SCIENTISTS <a href=''>THE DATA ANALYTICS HANDBOOK</a>
+  
+ 
+
+
+
