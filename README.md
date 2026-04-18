@@ -36,7 +36,7 @@ Article in mckinsey: <a href='https://www.mckinsey.com/capabilities/tech-and-ai/
 
 # Tech and Data Science blogs
 
-Following blogs focus on Data Science:
+Blogs and newsletters with focus on Data Science:
  
 <a href='https://www.kdnuggets.com'>kdnuggets.com </a>
  
@@ -52,7 +52,6 @@ Following blogs focus on Data Science:
  
 <a href=''> </a>
  
-DATA ANALYSTS + DATA SCIENTISTS <a href=''>THE DATA ANALYTICS HANDBOOK</a>
   
  
 
