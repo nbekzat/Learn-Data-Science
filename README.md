@@ -49,7 +49,7 @@ Article in mckinsey: <a href='https://www.mckinsey.com/capabilities/tech-and-ai/
 # Tech and Data Science blogs 📰
 
 Blogs and newsletters with focus on Data Science:
- 
+
 <a href='https://www.kdnuggets.com'>kdnuggets.com </a>
  
 <a href='https://www.techtarget.com'> techtarget.com </a>
