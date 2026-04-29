@@ -119,3 +119,6 @@ coming soon ...
 
 скоро добавлю 🥱 ...
 
+# Communication skills
+Using elevator pitches to promote yourself in an interview or when networking: 
+https://www.thebalancemoney.com/elevator-speech-examples-and-writing-tips-2061976
