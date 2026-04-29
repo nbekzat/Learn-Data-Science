@@ -122,3 +122,6 @@ coming soon ...
 # Communication skills
 Using elevator pitches to promote yourself in an interview or when networking: 
 https://www.thebalancemoney.com/elevator-speech-examples-and-writing-tips-2061976
+
+How to answer on "tell me about youself"question: 
+https://www.thebalancemoney.com/tell-me-about-yourself-job-interview-question-2060956
