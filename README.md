@@ -125,3 +125,5 @@ https://www.thebalancemoney.com/elevator-speech-examples-and-writing-tips-206197
 
 How to answer on "tell me about youself"question: 
 https://www.thebalancemoney.com/tell-me-about-yourself-job-interview-question-2060956
+
+<a href="https://jerz.setonhill.edu/writing/e-text/email/>Email Tips: Top 10 Strategies for Writing Effective Email</a>
