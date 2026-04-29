@@ -79,7 +79,13 @@ Regular expression https://www.youtube.com/playlist?list=PL7C1EB31127AB8A0B
 
 # Data Visualization 📊
 
-coming soon ...
+10 Tips for Presenting Data : https://www.observepoint.com/blog/10-tips-for-presenting-data/
+
+Using visual aids during a presentation or training session : https://virtualspeech.com/blog/visual-aids-presentation
+
+Tips for choosing which chart to use : https://www.skillsyouneed.com/num/graphs-charts.html
+
+How to Tell a Story With Data. A Guide for Beginners : https://venngage.com/blog/data-storytelling/
 
 скоро добавлю 🥱 ...  
 
